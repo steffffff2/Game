@@ -1,0 +1,267 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\stefa\Desktop\let\Engine\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\stefa\Desktop\let\Engine\main.cpp(81,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\stefa\Desktop\let\Engine\main.cpp(95,40): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(96,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(99,40): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(100,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(101,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(103,40): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(104,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(105,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(107,40): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(108,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(109,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(111,40): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(112,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(113,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(115,40): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(116,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(117,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(133,31): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(139,32): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(145,32): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(151,32): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(157,32): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(163,32): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(172,33): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(173,33): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(174,33): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(175,33): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(176,33): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(177,33): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(181,43): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(182,42): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(183,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(187,43): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(188,42): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(189,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(193,43): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(194,42): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(195,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(199,43): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(200,42): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(201,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(205,43): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(206,42): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(207,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(211,43): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(212,42): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(213,41): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(220,40): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(224,40): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(228,40): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(233,40): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\stefa\Desktop\let\Engine\main.cpp(244,19): warning C4101: 'ymouse': unreferenced local variable
+C:\Users\stefa\Desktop\let\Engine\main.cpp(244,8): warning C4101: 'xmouse': unreferenced local variable
+  Generating code
+  1 of 550 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Engine.vcxproj -> C:\Users\stefa\Desktop\let\Engine\x64\Release\Engine.exe
